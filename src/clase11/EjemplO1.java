@@ -21,8 +21,7 @@ y los días de entresemana se honraba con su
                 vellorí de lo más fino */
         int otra_cosa;
         otra_cosa = 6;
-        System.out.println("El valor de la primera variable es "
-                + algo + " y de la segunda es " + otra_cosa);
+        System.out.println("El valor de la primera variable es " + algo + " y de la segunda es " + otra_cosa);
 
         System.out.println("¿Te cuento un cuento?: " + var1);
     }
